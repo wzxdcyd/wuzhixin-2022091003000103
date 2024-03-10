@@ -10,37 +10,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="203c276d-5918-426c-9dd8-baea36dc39b2" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a118db095df8e1de10e32369b0e28bd982f97caa" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cdd96f147504601c815c615663e0850856f4450f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db5c1dde150df3fb4ad8de7d39fb0835208d362c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/1/a118db095df8e1de10e32369b0e28bd982f97caa" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/d/cdd96f147504601c815c615663e0850856f4450f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/b/db5c1dde150df3fb4ad8de7d39fb0835208d362c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wuzhixin/week2/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/MyJsp.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    <list default="true" id="203c276d-5918-426c-9dd8-baea36dc39b2" name="更改" comment="Homework-week2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +23,19 @@
       <list>
         <option value="Jsp File" />
       </list>
+    </option>
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7d09d3bf-aeac-43a4-9a04-f533319b2fb5" />
+        <option name="url" value="https://github.com/wzxdcyd/wuzhixin-2022091003000103.git" />
+      </UrlAndAccount>
     </option>
   </component>
   <component name="LogFilters">
@@ -83,6 +67,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/JSP/wuzhixin-2022091003000103/src/main/java/com/wuzhixin&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -211,11 +196,24 @@
       <workItem from="1709548606934" duration="256000" />
       <workItem from="1710075755296" duration="2284000" />
       <workItem from="1710078075386" duration="2141000" />
+      <workItem from="1710080228075" duration="374000" />
     </task>
+    <task id="LOCAL-00001" summary="Homework-week2">
+      <created>1710080540523</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710080540523</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework-week2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework-week2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
